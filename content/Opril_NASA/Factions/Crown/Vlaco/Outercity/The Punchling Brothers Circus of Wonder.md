@@ -17,7 +17,7 @@ The circus is run by a human man named Derrick Fucking Squash. He has two fighte
 
 * Derrick Fucking Squash - owner of circus and announcer
 * Thorny Rose - arena champion with bull tattoo
-* Ront - arena fighter
+* Ront - arena fighter half orc
 
 ### Session Links
 
