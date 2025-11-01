@@ -1,0 +1,35 @@
+---
+ tags:
+ - NPC
+ - public
+---
+- Gerard - Tall algae blue Green lizardfolk man - dressed in fine silk  with lots of jewelry that jingles when he walks, his eyes are shielded by a pair of round gold sunglasses - He's a wealthy merchant with his own boat for cargo
+- Pleat - Tall hobgoblin man d- wielding twin scimitars and plate armor
+- Payter Wilker - short all black tabaxi woman with a small narrow face with yellow eyes - wearing yellow dress and brown apron - Bar maid of [[Whiskey's Whiskers]]
+- Captain Miguel - Firbolg man older with slick back greasy hair round shaven face with intimidating eyes with a soft smile - dark full body cloak hangs on his shoulders, underneath is a white dress shirt and slate slacks
+- Tunmuc Bonebuckle - dwarf obsidian bead on long black beard - worked there for 3  years as bartender for [[Muddy Anchor]]
+- Rist Sandy- Half elf woman with a darker completion soft features and silver hair owner of the [[Ditch]]
+- Brent Herc - large half orc-giant with many tattoos of ships and anchors, waiter at the [[Ditch]]
+- Wendy Qubit - Steward of [[Pallen Glover]] sent to [[Emyna Nalore]] to investigate the blight and to study beneath the great [[Archebold Vincent]]. Short darkskinned human woman with green eyes and stern look upon her face. wearing a navy colored military coat wielding a silver staff. Born and raised in Lyndon 2nd daughter of Janice Qubit another senator, believes she is above running errands but is excited as she always wanted to go on an adventure.
+- Stew - captain of pallen glover's airshi
+- [[Archebold Vincent]] - Professor at [[Sikus College]] - human wizard ally of [[Pallen Glover]] and [[Gretchen Pendrale]]
+- [[Gretchen Pendrale]] - Friend of [[Archebold Vincent]] wears the armaments' of [[Thay]]ian ambassadors - half elf red robes and hair
+- lyrrith the abyssal songweaver - kidnapped by a magic casting Grick absorbing her music - Teifling purple with curly blue hair
+- Baho - wizard student of [[Sikus College]]  - human goth nerd
+- Terv - wizard student of [[Sikus College]] - human jockish turncoat
+- [[Professor Fermion]] - Evil doer somehow connected to the Blight
+- [[Percy Duffin]] - murder victim of the [[Mors Altum]], singer of [[Mercy Stirges]]
+- [[Anok]]
+- [[Hamwin]]
+- [[Selena Crowe]]
+- [[Lamprodis]]
+- [[Oathsworn]]
+- [[Rayne]] - holy man friend of [[Anok]] sent to cure Thomas of his curse
+- Chloe - Kenku owner of [[Apogee Goods]]
+- Whisp - Assistant worker at [[Apogee Goods]]
+- Lloyd - master craftsmen at [[Lloyd's Spinning Forge]]
+- Mia - Assistant of Lloyd at [[Lloyd's Spinning Forge]]
+- [[Issac Payne]] - author and adventurer
+- Veil - goth mommy drug dealer, drow cousin of Whis
+- Itchy kev - rock gnome low life
+- Ronald - Veil's parrot

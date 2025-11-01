@@ -1,0 +1,40 @@
+---
+tags:
+  - public
+  - NPC
+---
+
+- [[Duke Araboe Greatmane]] - Leonin Duke patron of "The Reason"
+- Duchess Ophelia Greatmane - tuxedo Tabaxi Wife of Araboe
+- Sylvester - tuxedo Tabaxi son of Araboe and Ophelia
+- Court Mage Lyla - Court mage of Ophelia, dislikes Ikabod
+- Octavia - Follower cleric of Helm Older Orcish woman with a bad hunch
+- Roxley - A powerful necromancer who lives in a tower in Troutberk
+- 
+- Ceciro - A student of the college of mages, tour guide
+- Elias - A human student of the college of mages, roommate of Ceciro
+- Niel Professor of Demonology - pale tall, has a homunculus testing chamber
+- Ballock - Human man rich with large fur coat, information Broker
+- Sarah - Human woman maid/help under the Greatmane
+- Brim - Earth Genasi male short slow, chauffer for the Greatmane's
+- Scar - Mysterious wanted Dragonborn male who bears a distinctive scar on his face
+- Chris Redfield - human guard working on becoming a Pym knight
+- Duke Jay Dimmantle - Old Dwarf duke who runs a portion of the docks/cargo ships
+- [[Duke Neadum Shouley]] - Human old short plum balding, runs farms just outside the city
+- [[Yellow Warden Marquez]] - Elf? detective wizard, searching for the prince's assassins
+- [[Yellow ward Johnny]] - Ward to Marquez orc, quiet strong, paladin
+- [[Morgan shouly]] - Human woman daughter of Neadum depressed/possessed? either way the party did kill a monster in her bedroom
+- Blackthorn - Black Dragonborn owner of the [[Twisted Claw]]
+- Beth - Blue tiefling woman with southern accent and round face works as a wench at the [[Blue Moon Inn]]
+- ??? - Goblin man who works the elevator at [[Blue Moon Inn]]
+- Breya - Troll that works the chains at the elevator at [[Blue Moon Inn]]
+- Garrick "The Wolf" - large human man, Ex-pitfighter owner/bartender of the Den leader of the Wolves
+- Alyza - The goblin female Fixer, she works out of the Den and loves material wealth, has a wonderful golden blonde wig
+- [[Sim]] - a doopple ganger who instigated the assassination of the prince and attempt on [[Duke Araboe Greatmane|Araboe]]'s life
+- [[Flynn Renel]] - human son of Lauryn and Trent ex husband of [[Morgan shouly]]
+- Neely Dregus - daughter of Fozz famed Opera singer gone missing
+- [[Calrail the Vile]] - Famed necromancer who was exiled from the mage's college
+- Duchess Lauryn Runel - half elf Mother of Flynn Runel 
+- Mathius - goliath monk guard with 3 section staff and apprentice of Greyson
+- Sister Gertrude - short human woman with a shock of curly red hair - an acolyte of Lathandar
+
