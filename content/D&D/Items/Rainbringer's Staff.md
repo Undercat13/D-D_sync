@@ -30,5 +30,3 @@ Requires attunement by a Druid, Sorcerer or Wizard
 | 9           | Cone of Cold            |
 
 
----
-## Plot
