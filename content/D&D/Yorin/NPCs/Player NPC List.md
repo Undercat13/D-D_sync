@@ -33,3 +33,12 @@
 - Veil - goth mommy drug dealer, drow cousin of Whis
 - Itchy kev - rock gnome low life
 - Ronald - Veil's parrot
+- Lewel Stonebeard - Bald deep gnome guide for [[Mist Hollow]]
+- Moore - firbolg owner of  [[Moore's Goods and Stuff]]
+- Shady - Hobgoblin barber owner of [[Shady Cuts]]
+- [[Nebula]] - missing drow woman with glasses, kidnapped in the [[Rungs]]
+- [[Skunk]] - sketchy drow who can get you anything
+- Goren - Artist at [[D&D/Yorin/Locations/Surfing Samurai|Surfing Samurai]]
+- Herb - Artist at [[D&D/Yorin/Locations/Surfing Samurai|Surfing Samurai]]
+- The Reason - Nu metal band, performing at [[The Dark Forest]] introduced [[The Alchemist]]
+- [[The Alchemist]]

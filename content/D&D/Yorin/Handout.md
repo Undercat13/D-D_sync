@@ -81,7 +81,7 @@ There are 4 major factions of Yorin each with their own flaws an virtue.
 - Occult rituals beckon the [[The Carrion King]] to provide salvation for all who welcome them in the new age of dark.
 
 ## Custom backgrounds
-In previous campaigns I've given csutome powers related a background that ties into the world. Below is a non comprehensive list of groups you may pick from (again this is completely optional):
+In previous campaigns I've given custom powers related a background that ties into the world. Below is a non comprehensive list of groups you may pick from (again this is completely optional):
 - Ratcatcher - Bounty Hunter guild, rough and tumble crowd
 - Yellow Warden - Detectives typically come in pairs a mage and a ward (protector)
 - Doves - Knights of [[Lodel]] - a high honor

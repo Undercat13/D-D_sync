@@ -3,9 +3,9 @@ tags:
   - public
   - Yorin
   - Item
-rarity:
-type:
-Party:
+rarity: Rare (Requires Attunement)
+type: Armor
+Party: Ope Dungeon
 ---
 This evil winged helm made of black iron surface is splotched with dried blood and deep battle scars. It appears to warp shadows and absorb light, just looking at the helm sends a shiver down your spine. Wearing the helm gives your eyes a fiery  red glow
 

@@ -38,3 +38,9 @@
 - [[Whiskey's Whiskers]] - Tavern in [[Skive]]
 - [[Whispering Needle Tailor Shop]] - Tailor in [[Lyndon]] sells fine clothes some enchanted
 - [[Glass fork]] - Pastry shop in [[Lyndon]]
+- [[The Dark Forest]] - venue in [[Mist Hollow]]
+- [[Shady Cuts]] - barber in [[Mist Hollow]]
+- [[Fogged Tankard]] - Tavern in [[Mist Hollow]]
+- [[Rakkan]] - Ramen reasturant in [[Mist Hollow]]
+- [[D&D/Yorin/Locations/Surfing Samurai|Surfing Samurai]] - Tattoo shop in [[Mist Hollow]], rumored connection to Mors Altum
+- [[Moore's Goods and Stuff]] - General goods shop in [[Mist Hollow]]
