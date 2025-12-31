@@ -10,6 +10,7 @@ Some items are shared between campaigns and could lead you out side of the Yorin
 ## Links:
 - [[Homerules]]
 - [[Player Location List]]
-- [[|Player NPC List Yorin]]
+- [[Player NPC List]]
 - [[Handout]]
 - [[https://undercat13.github.io/D-D_sync/D-and-D/Yorin/Navigatable_map.svg|Navigatable_map]]
+- 

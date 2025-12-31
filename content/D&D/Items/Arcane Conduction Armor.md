@@ -10,7 +10,7 @@ Party: Ope Dungeon
 ## Appearance
 - Arcane armor, cerulean with white arcane runes that control the form.
 - This armor has multiple forms, each one with their own appearance.
-![[Pasted image 20251031233825.png|250]]
+- ![[Pasted image 20251031233825.png|250]]
 ## Effect
 Light Armor
 

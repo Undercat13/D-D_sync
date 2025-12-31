@@ -8,4 +8,4 @@ my current TODO:
 - Add in the player handout
 - finish updating the various locations
 - include a quest list for reference and a simple note about each of the PCs.
-test index [[Player NPC List|Player NPC List]]
+test index [[Player NPC List Opril|Player NPC List Opril]]

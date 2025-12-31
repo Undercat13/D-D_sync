@@ -44,3 +44,6 @@
 - [[Rakkan]] - Ramen reasturant in [[Mist Hollow]]
 - [[D&D/Yorin/Locations/Surfing Samurai|Surfing Samurai]] - Tattoo shop in [[Mist Hollow]], rumored connection to Mors Altum
 - [[Moore's Goods and Stuff]] - General goods shop in [[Mist Hollow]]
+- [[Lucky's Mall]] - dock side market in [[Mist Hollow]], where you can find almost anything
+- [[Slush]] - dive bar in the rungs of  [[Mist Hollow]]
+- [[Star's Reach]] - wizard shop in the cloudline of [[Mist Hollow]]
