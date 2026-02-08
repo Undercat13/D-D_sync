@@ -60,7 +60,7 @@ There are 4 major factions of Yorin each with their own flaws an virtue.
 - big on trade and open boarders
 - powerful military and Navy, protects wilds edge and defends against monsters from the [[Tyth Rainforest]]
 - Settlements
-	- [[Niva]] - Northern most costal town
+	- [[Niva]] - Northern most coastal town
 	- [[Skive]] - Northern city on the river between the [[Hutan Forest]] and [[Tyth Rainforest]]
 	- [[Bryga]] - Stronghold on the Northern tip of the Mount Judgement, - a place where many criminals are sent
 	- [[Earlington Keep]] - on the Wild's edge, the last bastion of civilization that protects the people from the monsters of the rainforest
@@ -70,7 +70,7 @@ There are 4 major factions of Yorin each with their own flaws an virtue.
 - The gods have abandoned the people, as a result people have looked elsewhere for faith. Some of those include: primordials, devils, and demons. Though one god manifested in their absence, the [[All Mother]].
 - Many kingdoms and cities have outlawed religion other than the [[All Mother]]. People caught following other powers are cast out as heretics and in extreme circumstances executed.
 - It's rare to still worship the old gods, but some still do; even if there is no effect.
-- Some chose to beckon the creeping darkness, worshipping The Carrion King under the banner of [[Mors Altum]].
+- Some chose to beckon the creeping darkness, worshiping The Carrion King under the banner of [[Mors Altum]].
 
 ### [[All Mother]]
 - Goddess of life, mother to all. Has always been a part of Yorin culture. Is seen as an overall good in the eyes of the ruling.

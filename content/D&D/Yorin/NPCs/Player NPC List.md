@@ -45,7 +45,7 @@
 - Mother - Beholder Bartender and owner of [[Slush]]. Ruby scales with violet lipstick, with dark bushy eye lashes on each stalk. She looks dashing even for a Beholder
 - [[Nuncio L'nache]] - Dashing looking member of the [[Brotherhood of Crows]]
 - Captain Talrun - a grizzled old seadog who respects strength over guile. Old human with leather skin and white hair, in [[Mist Hollow]] - steel doves captain
-- Ysabel - whimsical teifling sorcerer wearing a white and yellow dress with chain mail - yellow warden
+- Ysabel - whimsical tiefling sorcerer wearing a white and yellow dress with chain mail - yellow warden
 - Reynard - a square green tortal with an eye patch, an armored knight wielding a massive hammer - ward
 - Gem - sexy teifling woman stylist of [[Nebula]], in [[Mist Hollow]]
 - [[Mug]] - Feral goblin from the Alchemist Quarters in [[Mist Hollow]]
